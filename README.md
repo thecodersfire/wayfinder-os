@@ -25,8 +25,4 @@ The `wayfinder.svg` wallpaper is original. Wayfinder OS is an independent Ubuntu
 See [FEATURES.md](FEATURES.md) for three local tools included for travel planning.
 
 
-The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, Zotero**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, Zotero**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, Zotero**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
